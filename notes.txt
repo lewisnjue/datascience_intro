@@ -1,0 +1,28 @@
+first what is the need of data sciece 
+there are manyreason why we need data science some are:
+. to handle and analyze extremely large datasets / dat flow
+. faster and beter decision making
+. no predictions 
+. reduce product cost
+. gain business insights 
+. build intelligence and ability in machines 
+most of today is untracted and faster created every day 
+and this becomes complex
+to use this data we use data science and gain insights from 
+those data 
+we used data warehouse but now we use hadoop
+okay what is data science: data science known as data driven 
+science makes uses of scientific methods processes algoritms
+and systems to extract knowledge or insights with the goal
+to discover hidden patterns from the daw data 
+there are diffrent programming language but python is the one
+that stand one this is because:
+ .it is simple
+ . fit for many platforms
+ . it is high level and interpreted language(script language)
+ . perform data manipulation ,analysis and visualizaion
+ . powerful libraries for machine learning applicaions and other
+scientific computaions
+some skill set include : statistics, programming language,
+data extraion and processing, data wrangiling and exploration,
+machine learning , big data processing frameworkds , data visualizaion
